@@ -1,0 +1,14 @@
+C:\work\daily\2022\q2\04_24\QuestionGoogler\QuestionGoogler\bin\Debug\x86\leptonica-1.80.0.dll
+C:\work\daily\2022\q2\04_24\QuestionGoogler\QuestionGoogler\bin\Debug\x86\tesseract41.dll
+C:\work\daily\2022\q2\04_24\QuestionGoogler\QuestionGoogler\bin\Debug\x64\leptonica-1.80.0.dll
+C:\work\daily\2022\q2\04_24\QuestionGoogler\QuestionGoogler\bin\Debug\x64\tesseract41.dll
+C:\work\daily\2022\q2\04_24\QuestionGoogler\QuestionGoogler\bin\Debug\image2.exe.config
+C:\work\daily\2022\q2\04_24\QuestionGoogler\QuestionGoogler\bin\Debug\image2.exe
+C:\work\daily\2022\q2\04_24\QuestionGoogler\QuestionGoogler\bin\Debug\image2.pdb
+C:\work\daily\2022\q2\04_24\QuestionGoogler\QuestionGoogler\bin\Debug\Tesseract.dll
+C:\work\daily\2022\q2\04_24\QuestionGoogler\QuestionGoogler\obj\Debug\QuestionGoogler.csproj.AssemblyReference.cache
+C:\work\daily\2022\q2\04_24\QuestionGoogler\QuestionGoogler\obj\Debug\QuestionGoogler.csproj.SuggestedBindingRedirects.cache
+C:\work\daily\2022\q2\04_24\QuestionGoogler\QuestionGoogler\obj\Debug\QuestionGoogler.csproj.CoreCompileInputs.cache
+C:\work\daily\2022\q2\04_24\QuestionGoogler\QuestionGoogler\obj\Debug\QuestionGoogler.csproj.CopyComplete
+C:\work\daily\2022\q2\04_24\QuestionGoogler\QuestionGoogler\obj\Debug\image2.exe
+C:\work\daily\2022\q2\04_24\QuestionGoogler\QuestionGoogler\obj\Debug\image2.pdb
