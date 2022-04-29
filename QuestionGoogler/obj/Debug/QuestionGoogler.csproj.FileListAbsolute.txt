@@ -12,3 +12,17 @@ C:\work\daily\2022\q2\04_24\QuestionGoogler\QuestionGoogler\obj\Debug\QuestionGo
 C:\work\daily\2022\q2\04_24\QuestionGoogler\QuestionGoogler\obj\Debug\QuestionGoogler.csproj.CopyComplete
 C:\work\daily\2022\q2\04_24\QuestionGoogler\QuestionGoogler\obj\Debug\image2.exe
 C:\work\daily\2022\q2\04_24\QuestionGoogler\QuestionGoogler\obj\Debug\image2.pdb
+c:\work\daily\2022\q2\04_25\QuestionGoogler\QuestionGoogler\bin\Debug\x86\leptonica-1.80.0.dll
+c:\work\daily\2022\q2\04_25\QuestionGoogler\QuestionGoogler\bin\Debug\x86\tesseract41.dll
+c:\work\daily\2022\q2\04_25\QuestionGoogler\QuestionGoogler\bin\Debug\x64\leptonica-1.80.0.dll
+c:\work\daily\2022\q2\04_25\QuestionGoogler\QuestionGoogler\bin\Debug\x64\tesseract41.dll
+c:\work\daily\2022\q2\04_25\QuestionGoogler\QuestionGoogler\bin\Debug\image2.exe.config
+c:\work\daily\2022\q2\04_25\QuestionGoogler\QuestionGoogler\bin\Debug\image2.exe
+c:\work\daily\2022\q2\04_25\QuestionGoogler\QuestionGoogler\bin\Debug\image2.pdb
+c:\work\daily\2022\q2\04_25\QuestionGoogler\QuestionGoogler\bin\Debug\Tesseract.dll
+c:\work\daily\2022\q2\04_25\QuestionGoogler\QuestionGoogler\obj\Debug\QuestionGoogler.csproj.AssemblyReference.cache
+c:\work\daily\2022\q2\04_25\QuestionGoogler\QuestionGoogler\obj\Debug\QuestionGoogler.csproj.SuggestedBindingRedirects.cache
+c:\work\daily\2022\q2\04_25\QuestionGoogler\QuestionGoogler\obj\Debug\QuestionGoogler.csproj.CoreCompileInputs.cache
+c:\work\daily\2022\q2\04_25\QuestionGoogler\QuestionGoogler\obj\Debug\QuestionGoogler.csproj.CopyComplete
+c:\work\daily\2022\q2\04_25\QuestionGoogler\QuestionGoogler\obj\Debug\image2.exe
+c:\work\daily\2022\q2\04_25\QuestionGoogler\QuestionGoogler\obj\Debug\image2.pdb
